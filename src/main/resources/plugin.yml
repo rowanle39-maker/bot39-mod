@@ -1,0 +1,10 @@
+name: Bot39Mod
+version: 1.0.0
+main: com.bot39.botmod.BotPlugin
+api-version: "1.20"
+author: seninadın
+description: Bot39 adında, emir verilebilen bir NPC ekler.
+commands:
+  bot39:
+    description: Bot39'a emir ver.
+    usage: /bot39 <spawn|follow|stay|attack|collect|inventory|giveall|remove>
